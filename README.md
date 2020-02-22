@@ -18,4 +18,4 @@ net {
     }
 ```
 
-To your user's API key values.
+To your TMDB user's API key values.
