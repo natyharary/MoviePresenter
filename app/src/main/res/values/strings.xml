@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviePresenter</string>
+    <string name="error_retrofit_onfailure">Failed getting response from server!</string>
+    <string name="repo_action_get_server">Get movies from server</string>
+    <string name="repo_action_get_room">Get movies from Room</string>
+    <string name="repo_action_delete">Delete all movies</string>
+
+    <string name="preferences_last_update_server">Last server update</string>
+</resources>
